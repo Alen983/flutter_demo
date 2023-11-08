@@ -1,0 +1,5 @@
+main() {
+  variablePlayGround() {
+    unusedVariab();
+  }
+}
